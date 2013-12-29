@@ -1,0 +1,25 @@
+{
+  "name": "smime-node",
+  "version": "0.0.1",
+  "description": "Node.js wrapper for OpenSSL S/MIME commands",
+  "main": "index.js",
+  "scripts": {
+    "test": "nodeunit test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kachok/smime-node.git"
+  },
+  "keywords": [
+    "openssl",
+    "smime"
+  ],
+  "author": "Dmitry Kachaev",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kachok/smime-node/issues"
+  },
+  "dependencies": {
+  },
+  "devDependencies": {}
+}
